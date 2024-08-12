@@ -1,1 +1,21 @@
-Hi,I am manideep from Rajamundry state of Andhra Predesh.
+1.Offer template- create, edit, delete , duplicate- with variables and without variables both.
+	
+	User able to create the offer template.
+	User able to edit the offer template.
+	User able to delete the offer template.
+	User able to create the duplicate offer template using existing offer template.
+
+2.Send offer from CRM with approval and without approval (all scenarios)
+	
+	With approval:
+	While sending offer letter to the candidate it requires approval what user gives(Approver) when creating offer template will receive a 			mail for offer approval.
+	
+	Without approval: 
+	
+3.Edit Offer  from CRM-when it is in approval pending or approved state
+
+	With approval,user not able to change the offer template when approval is pending state in HRM and CRM.
+
+1.Wihtout approval workflow.
+2.With approval,user not able to change the offer template when approval is pending state in HRM and CRM.
+3.Salary table braking while user sending offer letter to the candidate.
